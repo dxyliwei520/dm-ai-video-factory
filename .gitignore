@@ -1,0 +1,14 @@
+﻿.env
+.env.*
+*.db
+*.sqlite
+*.log
+__pycache__/
+*.pyc
+uploads/
+_backup*/
+_backups/
+bridge.key
+_KEYS.local.txt
+卡密-*.txt
+.DS_Store
